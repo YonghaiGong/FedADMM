@@ -11,12 +11,12 @@ The code is modified from https://github.com/AshwinRJ/Federated-Learning-PyTorc
 
 Install all the packages from requirments.txt
 
-* python=3.8.5
-* pytorch=1.9.0
-* torchvision=0.10.0
-* numpy=1.19.2
-* tensorboardx=2.2
-* matplotlib=3.3.2
+* python = 3.8.5
+* pytorch = 1.9.0
+* torchvision = 0.10.0
+* numpy = 1.19.2
+* tensorboardx = 2.2
+* matplotlib = 3.3.2
 
 ## Datasets and Models
 
