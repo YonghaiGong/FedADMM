@@ -3,8 +3,6 @@
 
 Author: Yonghai Gong, Yichuan Li, and  Nikolaos M. Freris
 
-The paper has been accepted by ICDE 2022.
-
 The code is modified from https://github.com/AshwinRJ/Federated-Learning-PyTorch
 
 ## Requirments
